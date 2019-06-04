@@ -1,0 +1,6 @@
+# Family-size variability grows with collapse rate in Birth-Death-Catastrophe modele Simulation of different edges removal LG16714E
+March 2018 PHYSICAL REVIEW E 98(1)
+DOI: 10.1103/PhysRevE.98.012416
+
+Forest-fire and avalanche models support the notion that frequent catastrophes prevent the growth of very large populations and as such prevent rare large-scale catastrophes. We show that this notion is not universal. A new model class leads to a paradigm shift in the influence of catastrophes on the family-size distribution of sub-populations. We study a simple population dynamics model where individuals, as well as a whole family, may die with a constant probability, accompanied by a logistic population growth model. We compute the characteristics of the family-size distribution in steady-state and the phase diagram of the steady-state distribution, and show that the family and catastrophe size variances increase with the catastrophe frequency, which is the opposite of common intuition. Frequent catastrophes are balanced by a larger net-growth rate in surviving families, leading to the exponential growth of these families. When the catastrophe rate is further increased, a second phase transition to extinction occurs, when the rate of new families creations is lower than their destruction rate by catastrophes.
+
